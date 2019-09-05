@@ -4,8 +4,8 @@ Background
 - All links are HTTP (no HTTPS)
 
 FDL
-- [11 - FDL](http://maps.app.goo.gl/?isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&apn=com.google.android.apps.maps&amv=914018424&pt=9008&mt=8&ct=appstore_zpmdeeplinktest11&utm_campaign=playstore_zpmdeeplinktest11&link=http://www.google.com/maps%3Futm_campaign=zpmdeeplinktest11)
-- [12 - FDL restaurants](http://maps.app.goo.gl/?isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&apn=com.google.android.apps.maps&amv=914018424&pt=9008&mt=8&ct=appstore_zpmdeeplinktest12&utm_campaign=playstore_zpmdeeplinktest12&link=http://www.google.com/maps%3Fq=restaurants&utm_campaign=zpmdeeplinktest12)
+- [11 - FDL](http://maps.app.goo.gl/?link=http://www.google.com/maps%3Futm_campaign=zpmdeeplinktest11&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest11&ct=appstore2019zpmdeeplinktest11&pt=9008&mt=8)
+- [12 - FDL restaurants](http://maps.app.goo.gl/?link=http://www.google.com/maps%3Futm_campaign=zpmdeeplinktest12&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest12&ct=appstore2019zpmdeeplinktest12&pt=9008&mt=8)
 - Note the FDL links also append utm_campaign= for playstore and ct= for iOS store
 
 Basic URLs
