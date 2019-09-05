@@ -23,7 +23,7 @@ Android URIs
 
 iOS URIs
 - [61 - comgooglemapsurl://](comgooglemapsurl://?utm_campaign=zpmdeeplinktest61)
-- [62 - comgooglemapsurl:// restaurants](comgooglemapsurl://?utm_campaign=zpmdeeplinktest61)
+- [62 - comgooglemapsurl:// restaurants](comgooglemapsurl://?q=restaurants&utm_campaign=zpmdeeplinktest61)
 
 URIs to not use
 - [51 - geo://](geo://0,0?utm_campaign=zpmdeeplinktest51)
