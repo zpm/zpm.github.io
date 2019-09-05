@@ -1,4 +1,4 @@
-All links append `utm_campaign=zpmdeeplinktextXX`, where `XX` is replaced with the test codes below:
+All links append `utm_campaign=zpmdeeplinktestXX`, where `XX` is replaced with the test codes below:
 
 FDL
 - [11 - fdl](http://maps.app.goo.gl/?isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&apn=com.google.android.apps.maps&amv=914018424&pt=9008&mt=8&ct=appstore_zpmdeeplinktest11&utm_campaign=playstore_zpmdeeplinktest11&link=http://www.google.com/maps?utm_campaign=zpmdeeplinktest11)
