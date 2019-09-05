@@ -1,6 +1,6 @@
 FDL
-- [zpm test 11 - fdl openapp](http://maps.app.goo.gl/?isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&apn=com.google.android.apps.maps&amv=914018424&pt=9008&mt=8&ct=appstore_zpmdeeplinktest11&utm_campaign=playstore_zpmdeeplinktest11&link=https://www.google.com/maps?utm_campaign=zpmdeeplinktest11)
-- [zpm test 12 - fdl restaurants](http://maps.app.goo.gl/?isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&apn=com.google.android.apps.maps&amv=914018424&pt=9008&mt=8&ct=appstore_zpmdeeplinktest12&utm_campaign=playstore_zpmdeeplinktest12&link=https://www.google.com/maps?q=restaurants&utm_campaign=zpmdeeplinktest12)
+- [zpm test 11 - fdl openapp](http://maps.app.goo.gl/?isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&apn=com.google.android.apps.maps&amv=914018424&pt=9008&mt=8&ct=appstore_zpmdeeplinktest11&utm_campaign=playstore_zpmdeeplinktest11&link=http://www.google.com/maps?utm_campaign=zpmdeeplinktest11)
+- [zpm test 12 - fdl restaurants](http://maps.app.goo.gl/?isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&apn=com.google.android.apps.maps&amv=914018424&pt=9008&mt=8&ct=appstore_zpmdeeplinktest12&utm_campaign=playstore_zpmdeeplinktest12&link=http://www.google.com/maps?q=restaurants&utm_campaign=zpmdeeplinktest12)
 
 Basic URLs
 - [zpm test 21w - maps.google.com/ openapp](http://maps.google.com/?utm_campaign=zpmdeeplinktest21)
