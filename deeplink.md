@@ -13,7 +13,7 @@ Basic URLs
 - [zpm test 32n - google.com/maps restaurants](http://www.google.com/maps?q=restaurants&utm_campaign=zpmdeeplinktest32ns)
 
 Intents
-- [zpm test 41 - peterparker openapp](peterparker://?utm_campaign=zpmdeeplinktest41)
-- [zpm test 42 - peterparker restaurants](peterparker://q=restaurants?utm_campaign=zpmdeeplinktest42)
-- [zpm test 51 - maps.google.com openapp](geo://0,0?utm_campaign=zpmdeeplinktest51)
-- [zpm test 52 - maps.google.com restaurants](geo://0,0?q=restaurants&utm_campaign=zpmdeeplinktest52)
+- [zpm test 41 - peterparker:// openapp](peterparker://?utm_campaign=zpmdeeplinktest41)
+- [zpm test 42 - peterparker:// restaurants](peterparker://q=restaurants?utm_campaign=zpmdeeplinktest42)
+- [zpm test 51 - geo:// openapp](geo://0,0?utm_campaign=zpmdeeplinktest51)
+- [zpm test 52 - geo:// restaurants](geo://0,0?q=restaurants&utm_campaign=zpmdeeplinktest52)
