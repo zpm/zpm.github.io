@@ -1,11 +1,13 @@
+Version 2019-09-05 5:53
+
 Background
 - All links append `utm_campaign=zpmdeeplinktestXX`
 - `XX` is replaced with the two-digit test codes below
 - All links are HTTP (no HTTPS)
 
 FDL
-- [11 - FDL](http://maps.app.goo.gl/?link=http://www.google.com/maps%3Futm_campaign=zpmdeeplinktest11&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest11&ct=appstore2019zpmdeeplinktest11&pt=9008&mt=8)
-- [12 - FDL restaurants](http://maps.app.goo.gl/?link=http://www.google.com/maps%3Fq=restaurants%26utm_campaign=zpmdeeplinktest12&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest12&ct=appstore2019zpmdeeplinktest12&pt=9008&mt=8)
+- [11 - FDL](http://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Dutm_campaign%3Dzpmdeeplinktest11&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest11&ct=appstore2019zpmdeeplinktest11&pt=9008&mt=8)
+- [12 - FDL restaurants](http://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Futm_campaign%3Dzpmdeeplinktest12%26q%3Drestaurants&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest12&ct=appstore2019zpmdeeplinktest12&pt=9008&mt=8)
 - Note the FDL links also append utm_campaign= for playstore and ct= for iOS store
 
 Basic URLs
