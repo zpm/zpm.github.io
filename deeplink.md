@@ -18,9 +18,11 @@ Basic URLs
 Android URIs
 - [41 - peterparker://](peterparker://?utm_campaign=zpmdeeplinktest41)
 - [42 - peterparker:// restaurants](peterparker://?q=restaurants&utm_campaign=zpmdeeplinktest42)
+
+iOS URIs
 - [61 - comgooglemapsurl://](comgooglemapsurl://?utm_campaign=zpmdeeplinktest61)
 - [62 - comgooglemapsurl:// restaurants](comgooglemapsurl://?utm_campaign=zpmdeeplinktest61)
 
-Android and iOS URIs
+URIs to not use
 - [zpm test 51 - geo://](geo://0,0?utm_campaign=zpmdeeplinktest51)
 - [zpm test 52 - geo:// restaurants](geo://0,0?q=restaurants&utm_campaign=zpmdeeplinktest52)
