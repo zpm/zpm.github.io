@@ -14,6 +14,6 @@ Basic URLs
 
 Intents
 - [zpm test 41 - peterparker:// openapp](peterparker://?utm_campaign=zpmdeeplinktest41)
-- [zpm test 42 - peterparker:// restaurants](peterparker://q=restaurants?utm_campaign=zpmdeeplinktest42)
+- [zpm test 42 - peterparker:// restaurants](peterparker://?q=restaurants&utm_campaign=zpmdeeplinktest42)
 - [zpm test 51 - geo:// openapp](geo://0,0?utm_campaign=zpmdeeplinktest51)
 - [zpm test 52 - geo:// restaurants](geo://0,0?q=restaurants&utm_campaign=zpmdeeplinktest52)
