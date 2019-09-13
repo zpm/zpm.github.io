@@ -5,30 +5,36 @@ Background
 - `XX` is replaced with the two-digit test codes below
 - All links are HTTP (no HTTPS)
 
-FDL
-- [11 - FDL](http://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Dutm_campaign%3Dzpmdeeplinktest11&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest11&ct=appstore2019zpmdeeplinktest11&pt=9008&mt=8)
-- [12 - FDL restaurants](http://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Futm_campaign%3Dzpmdeeplinktest12%26q%3Drestaurants&apn=com.google.android.apps.maps&amv=1023503040&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmdeeplinktest12&ct=appstore2019zpmdeeplinktest12&pt=9008&mt=8)
-- Note the FDL links also append utm_campaign= for playstore and ct= for iOS store
+DV360:
+- [Firebase Dynamic Link - Android - DV360](https://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Fzpmtest2019%3Dfdl-android-dv360&apn=com.google.android.apps.maps&amv=1023000000&isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmtest2019-fdl-android-dv360&utm_source=zpmtest2019-fdl-android-dv360&ct=zpmtest2019-fdl-android-dv360&pt=9008&mt=8)
+- [Firebase Dynamic Link - iOS - DV360](https://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Fzpmtest2019%3Dfdl-ios-dv360&apn=com.google.android.apps.maps&amv=1023000000&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmtest2019-fdl-ios-dv360&utm_source=zpmtest2019-fdl-ios-dv360&ct=zpmtest2019-fdl-ios-dv360&pt=9008&mt=8)
+- [Universal MGC (maps.google.com) - Android - DV360](https://maps.google.com/?zpmtest2019=mapsgooglecom-android-dv360&utm_source=zpmtest2019-mapsgooglecom-android-dv360&utm_campaign=zpmtest2019-mapsgooglecom-android-dv360)
+- [Universal MGC (maps.google.com) - iOS - DV360](https://maps.google.com/?zpmtest2019=mapsgooglecom-ios-dv360&utm_source=zpmtest2019-mapsgooglecom-ios-dv360&utm_campaign=zpmtest2019-mapsgooglecom-ios-dv360)
+- [Universal WGCM (www.google.com/maps) - Android - DV360](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-android-dv360&utm_source=zpmtest2019-wwwgooglecommaps-android-dv360&utm_campaign=zpmtest2019-wwwgooglecommaps-android-dv360)
+- [Universal WGCM (www.google.com/maps) - iOS - DV360](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-ios-dv360&utm_source=zpmtest2019-wwwgooglecommaps-ios-dv360&utm_campaign=zpmtest2019-wwwgooglecommaps-ios-dv360)
+- [Custom URI - Android - DV360](peterparker://?zpmtest2019=peterparker-android-dv360&utm_source=zpmtest2019-peterparker-android-dv360&utm_campaign=zpmtest2019-peterparker-android-dv360)
+- [Custom URI - iOS - DV360](comgooglemapsurl://?zpmtest2019=comgooglemapsurl-ios-dv360&utm_source=zpmtest2019-comgooglemapsurl-ios-dv360&utm_campaign=zpmtest2019-comgooglemapsurl-ios-dv360)
 
-Basic URLs
-- [21w - maps.google.com/](http://maps.google.com/?utm_campaign=zpmdeeplinktest21w)
-- [22w - maps.google.com/ restaurants](http://maps.google.com/?q=restaurants&utm_campaign=zpmdeeplinktest22w)
-- [21n - maps.google.com](http://maps.google.com?utm_campaign=zpmdeeplinktest21n)
-- [22n - maps.google.com restaurants](http://maps.google.com?q=restaurants&utm_campaign=zpmdeeplinktest22n)
-- [31w - www.google.com/maps/](http://www.google.com/maps/?utm_campaign=zpmdeeplinktest31w)
-- [32w - www.google.com/maps/ restaurants](http://www.google.com/maps/?q=restaurants&utm_campaign=zpmdeeplinktest32w)
-- [31n - www.google.com/maps](http://www.google.com/maps?utm_campaign=zpmdeeplinktest31n)
-- [32n - www.google.com/maps restaurants](http://www.google.com/maps?q=restaurants&utm_campaign=zpmdeeplinktest32n)
-- w variant with trailing slash, n variant with no trailing slash
+Snap:
+- [Universal MGC (maps.google.com) - Android - Snap](https://maps.google.com/?zpmtest2019=mapsgooglecom-android-snap&utm_source=zpmtest2019-mapsgooglecom-android-snap&utm_campaign=zpmtest2019-mapsgooglecom-android-snap)
+- [Universal MGC (maps.google.com) - iOS - Snap](https://maps.google.com/?zpmtest2019=mapsgooglecom-ios-snap&utm_source=zpmtest2019-mapsgooglecom-ios-snap&utm_campaign=zpmtest2019-mapsgooglecom-ios-snap)
+- [Universal WGCM (www.google.com/maps) - Android - Snap](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-android-snap&utm_source=zpmtest2019-wwwgooglecommaps-android-snap&utm_campaign=zpmtest2019-wwwgooglecommaps-android-snap)
+- [Universal WGCM (www.google.com/maps) - iOS - Snap](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-ios-snap&utm_source=zpmtest2019-wwwgooglecommaps-ios-snap&utm_campaign=zpmtest2019-wwwgooglecommaps-ios-snap)
+- [Custom URI - Android - Snap](peterparker://?zpmtest2019=peterparker-android-snap&utm_source=zpmtest2019-peterparker-android-snap&utm_campaign=zpmtest2019-peterparker-android-snap)
+- [Custom URI - iOS - Snap](comgooglemapsurl://?zpmtest2019=comgooglemapsurl-ios-snap&utm_source=zpmtest2019-comgooglemapsurl-ios-snap&utm_campaign=zpmtest2019-comgooglemapsurl-ios-snap)
 
-Android URIs
-- [41 - peterparker://](peterparker://?utm_campaign=zpmdeeplinktest41)
-- [42 - peterparker:// restaurants](peterparker://?q=restaurants&utm_campaign=zpmdeeplinktest42)
+Twitter:
+- [Universal MGC (maps.google.com) - Android - Twitter](https://maps.google.com/?zpmtest2019=mapsgooglecom-android-twitter&utm_source=zpmtest2019-mapsgooglecom-android-twitter&utm_campaign=zpmtest2019-mapsgooglecom-android-twitter)
+- [Universal MGC (maps.google.com) - iOS - Twitter](https://maps.google.com/?zpmtest2019=mapsgooglecom-ios-twitter&utm_source=zpmtest2019-mapsgooglecom-ios-twitter&utm_campaign=zpmtest2019-mapsgooglecom-ios-twitter)
+- [Universal WGCM (www.google.com/maps) - Android - Twitter](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-android-twitter&utm_source=zpmtest2019-wwwgooglecommaps-android-twitter&utm_campaign=zpmtest2019-wwwgooglecommaps-android-twitter)
+- [Universal WGCM (www.google.com/maps) - iOS - Twitter](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-ios-twitter&utm_source=zpmtest2019-wwwgooglecommaps-ios-twitter&utm_campaign=zpmtest2019-wwwgooglecommaps-ios-twitter)
+- [Custom URI - Android - Twitter](peterparker://?zpmtest2019=peterparker-android-twitter&utm_source=zpmtest2019-peterparker-android-twitter&utm_campaign=zpmtest2019-peterparker-android-twitter)
+- [Custom URI - iOS - Twitter](comgooglemapsurl://?zpmtest2019=comgooglemapsurl-ios-twitter&utm_source=zpmtest2019-comgooglemapsurl-ios-twitter&utm_campaign=zpmtest2019-comgooglemapsurl-ios-twitter)
 
-iOS URIs
-- [61 - comgooglemapsurl://](comgooglemapsurl://?utm_campaign=zpmdeeplinktest61)
-- [62 - comgooglemapsurl:// restaurants](comgooglemapsurl://?q=restaurants&utm_campaign=zpmdeeplinktest62)
-
-URIs to not use
-- [51 - geo://](geo://0,0?utm_campaign=zpmdeeplinktest51)
-- [52 - geo:// restaurants](geo://0,0?q=restaurants&utm_campaign=zpmdeeplinktest52)
+ACe:
+- [Universal MGC (maps.google.com) - Android - ACe](https://maps.google.com/?zpmtest2019=mapsgooglecom-android-ace&utm_source=zpmtest2019-mapsgooglecom-android-ace&utm_campaign=zpmtest2019-mapsgooglecom-android-ace)
+- [Universal MGC (maps.google.com) - iOS - ACe](https://maps.google.com/?zpmtest2019=mapsgooglecom-ios-ace&utm_source=zpmtest2019-mapsgooglecom-ios-ace&utm_campaign=zpmtest2019-mapsgooglecom-ios-ace)
+- [Universal WGCM (www.google.com/maps) - Android - ACe](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-android-ace&utm_source=zpmtest2019-wwwgooglecommaps-android-ace&utm_campaign=zpmtest2019-wwwgooglecommaps-android-ace)
+- [Universal WGCM (www.google.com/maps) - iOS - ACe](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-ios-ace&utm_source=zpmtest2019-wwwgooglecommaps-ios-ace&utm_campaign=zpmtest2019-wwwgooglecommaps-ios-ace)
+- [Custom URI - Android - ACe](peterparker://?zpmtest2019=peterparker-android-ace&utm_source=zpmtest2019-peterparker-android-ace&utm_campaign=zpmtest2019-peterparker-android-ace)
+- [Custom URI - iOS - ACe](comgooglemapsurl://?zpmtest2019=comgooglemapsurl-ios-ace&utm_source=zpmtest2019-comgooglemapsurl-ios-ace&utm_campaign=zpmtest2019-comgooglemapsurl-ios-ace)
