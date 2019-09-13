@@ -1,11 +1,4 @@
-Version 2019-09-05 5:53
-
-Background
-- All links append `utm_campaign=zpmdeeplinktestXX`
-- `XX` is replaced with the two-digit test codes below
-- All links are HTTP (no HTTPS)
-
-DV360:
+Version 2019-09-13 5:53
 - [Firebase Dynamic Link - Android - zpmgithubio](https://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Fzpmtest2019%3Dfdl-android-zpmgithubio&apn=com.google.android.apps.maps&amv=1023000000&isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmtest2019-fdl-android-zpmgithubio&utm_source=zpmtest2019-fdl-android-zpmgithubio&ct=zpmtest2019-fdl-android-zpmgithubio&pt=9008&mt=8)
 - [Firebase Dynamic Link - iOS - zpmgithubio](https://maps.app.goo.gl/?link=http%3A%2F%2Fwww.google.com%2Fmaps%3Fzpmtest2019%3Dfdl-ios-zpmgithubio&apn=com.google.android.apps.maps&amv=1023000000&ibi=com.google.Maps&isi=585027354&ius=comgooglemapsurl&imv=5.25&utm_campaign=zpmtest2019-fdl-ios-zpmgithubio&utm_source=zpmtest2019-fdl-ios-zpmgithubio&ct=zpmtest2019-fdl-ios-zpmgithubio&pt=9008&mt=8)
 - [Universal MGC (maps.google.com) - Android - zpmgithubio](https://maps.google.com/?zpmtest2019=mapsgooglecom-android-zpmgithubio&utm_source=zpmtest2019-mapsgooglecom-android-zpmgithubio&utm_campaign=zpmtest2019-mapsgooglecom-android-zpmgithubio)
