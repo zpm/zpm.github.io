@@ -10,3 +10,4 @@ Version 2019-09-13 5:53
 
 External intents
 - [Geo w/ title](geo://0%2C0?q=37.56161117553711,126.99108123779297(Chungmuro+3(sam)-ga,+Jung-gu,+Seoul,+South+Korea)&z=14)
+- [Geo istanbul](geo:0,0?q=,+Istanbul,+Turkey)
