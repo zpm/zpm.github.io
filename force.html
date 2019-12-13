@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+
+<p>Force reload</p>
+
+<button type="button" class="btn" onclick="force_wlh();">window.location.href</button>
+
+<button type="button" class="btn"onclick="force_wlr();">window.location.replace</button>
+
+<button type="button" class="btn" onclick="force_iframe();">iframe</button>
+
+<script>
+
+  var force_url = "https://www.google.com/maps";
+  
+  function force_wlh() {
+    window.location.href = force_url;
+  }
+
+  function force_wlr() {
+    window.location.replace = force_url;
+  }
+  
+  function force_iframe() {
+    var frame = document.createElement('iframe');
+    frame.src = force_url;
+    frame.style.display = 'none';
+    document.body.appendChild(frame);
+  }
+</script>
+
+</body>
+</html>
