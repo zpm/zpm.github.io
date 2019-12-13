@@ -40,10 +40,6 @@
       <td><code><div id="idz-cookieEnabled"></div></code></td>
     </tr>
     <tr>
-      <th scope="row">navigator.mediaDevices</th>
-      <td><code><div id="idz-mediaDevices"></div></code></td>
-    </tr>
-    <tr>
       <th scope="row">document.referrer</th>
       <td><code><div id="idz-referrer"></div></code></td>
     </tr>
@@ -51,13 +47,14 @@
 </table>
 
 <script>
+  // navigator
   document.getElementById("idz-userAgent").innerHTML = navigator.userAgent;
   document.getElementById("idz-appCodeName").innerHTML = navigator.appCodeName;
   document.getElementById("idz-appName").innerHTML = navigator.appName;
   document.getElementById("idz-appVersion").innerHTML = navigator.appVersion;
-  document.getElementById("idz-cookieEnabled").innerHTML = navigator.cookieEnabled;
   document.getElementById("idz-platform").innerHTML = navigator.platform;
-  document.getElementById("idz-mediaDevices").innerHTML = navigator.mediaDevices;
+  // other
+  document.getElementById("idz-cookieEnabled").innerHTML = navigator.cookieEnabled;
   document.getElementById("idz-referrer").innerHTML = document.referrer;
 </script>
 
