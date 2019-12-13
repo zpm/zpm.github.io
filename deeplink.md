@@ -7,3 +7,6 @@ Version 2019-09-13 5:53
 - [Universal WGCM (www.google.com/maps) - iOS - zpmgithubio](https://www.google.com/maps?zpmtest2019=wwwgooglecommaps-ios-zpmgithubio&utm_source=zpmtest2019-wwwgooglecommaps-ios-zpmgithubio&utm_campaign=zpmtest2019-wwwgooglecommaps-ios-zpmgithubio)
 - [Custom URI - Android - zpmgithubio](peterparker://?zpmtest2019=peterparker-android-zpmgithubio&utm_source=zpmtest2019-peterparker-android-zpmgithubio&utm_campaign=zpmtest2019-peterparker-android-zpmgithubio)
 - [Custom URI - iOS - zpmgithubio](comgooglemapsurl://?zpmtest2019=comgooglemapsurl-ios-zpmgithubio&utm_source=zpmtest2019-comgooglemapsurl-ios-zpmgithubio&utm_campaign=zpmtest2019-comgooglemapsurl-ios-zpmgithubio)
+
+External intents
+- [Geo w/ title](geo://0%2C0?q=37.56161117553711,126.99108123779297(Chungmuro+3(sam)-ga,+Jung-gu,+Seoul,+South+Korea)&z=14)
