@@ -19,17 +19,15 @@
 <script>
 
   var force_url = "https://www.google.com/maps";
+
+  window.onload = force() {
+    force_wlh();
+  }
   
   function force_wlh() {
     window.location.href = force_url;
   }
-  
-  function force_iframe() {
-    var frame = document.createElement('iframe');
-    frame.src = force_url;
-    frame.style.display = 'none';
-    document.body.appendChild(frame);
-  }
+
 </script>
 
 </body>
