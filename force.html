@@ -10,8 +10,7 @@
   <div class="row">
     <div class="col">
       <p>Force reload tester</p>
-      <button type="button" class="btn btn-secondary" onclick="force_wlh();">window.location.href</button>
-      <button type="button" class="btn btn-secondary" onclick="force_iframe();">iframe</button>
+      <button type="button" class="btn btn-secondary" onclick="force();">window.location.href</button>
     </div>
   </div>
 </div>
@@ -21,7 +20,9 @@
   var force_url = "https://www.google.com/maps";
 
   window.onload = force() {
-    force_wlh();
+    if (window.location.search == "?go") {
+      force_wlh();
+    }
   }
   
   function force_wlh() {
