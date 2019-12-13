@@ -11,7 +11,6 @@
     <div class="col">
       <p>Force reload tester</p>
       <button type="button" class="btn btn-secondary" onclick="force_wlh();">window.location.href</button>
-      <button type="button" class="btn btn-secondary"onclick="force_wlr();">window.location.replace</button>
       <button type="button" class="btn btn-secondary" onclick="force_iframe();">iframe</button>
     </div>
   </div>
@@ -23,10 +22,6 @@
   
   function force_wlh() {
     window.location.href = force_url;
-  }
-
-  function force_wlr() {
-    window.location.replace = force_url;
   }
   
   function force_iframe() {
