@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col" colspan="2">Identifiers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">navigator.userAgent</th>
+      <td><code><div id="idz-userAgent"></div></code></td>
+    </tr>
+    <tr>
+      <th scope="row">navigator.appCodeName</th>
+      <td><code><div id="idz-appCodeName"></div></code></td>
+    </tr>
+    <tr>
+      <th scope="row">navigator.appName</th>
+      <td><code><div id="idz-appName"></div></code></td>
+    </tr>
+    <tr>
+      <th scope="row">navigator.appVersion</th>
+      <td><code><div id="idz-appVersion"></div></code></td>
+    </tr>
+    <tr>
+      <th scope="row">navigator.platform</th>
+      <td><code><div id="idz-platform"></div></code></td>
+    </tr>
+    <tr>
+      <th scope="col" colspan="2">Other Signals</th>
+    </tr>
+    <tr>
+      <th scope="row">navigator.cookieEnabled</th>
+      <td><code><div id="idz-cookieEnabled"></div></code></td>
+    </tr>
+    <tr>
+      <th scope="row">navigator.mediaDevices</th>
+      <td><code><div id="idz-mediaDevices"></div></code></td>
+    </tr>
+    <tr>
+      <th scope="row">document.referrer</th>
+      <td><code><div id="idz-referrer"></div></code></td>
+    </tr>
+  </tbody>
+</table>
+
+<script>
+  document.getElementById("idz-userAgent").innerHTML = navigator.userAgent;
+  document.getElementById("idz-appCodeName").innerHTML = navigator.appCodeName;
+  document.getElementById("idz-appName").innerHTML = navigator.appName;
+  document.getElementById("idz-appVersion").innerHTML = navigator.appVersion;
+  document.getElementById("idz-cookieEnabled").innerHTML = navigator.cookieEnabled;
+  document.getElementById("idz-platform").innerHTML = navigator.platform;
+  document.getElementById("idz-mediaDevices").innerHTML = navigator.mediaDevices;
+  document.getElementById("idz-referrer").innerHTML = document.referrer;
+</script>
+
+</body>
+</html>
