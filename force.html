@@ -6,13 +6,15 @@
 </head>
 <body>
 
-<p>Force reload</p>
+<div class="container">
+  <div class="row">
+    <p>Force reload tester</p>
+    <button type="button" class="btn btn-secondary" onclick="force_wlh();">window.location.href</button>
+    <button type="button" class="btn btn-secondary"onclick="force_wlr();">window.location.replace</button>
+    <button type="button" class="btn btn-secondary" onclick="force_iframe();">iframe</button>
+  </div>
+</div>
 
-<button type="button" class="btn" onclick="force_wlh();">window.location.href</button>
-
-<button type="button" class="btn"onclick="force_wlr();">window.location.replace</button>
-
-<button type="button" class="btn" onclick="force_iframe();">iframe</button>
 
 <script>
 
